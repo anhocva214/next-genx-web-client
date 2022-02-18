@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Hồ An",
+        "title": "Co_Founder & Chief Production Officer",
+        "avatar": "https://res.cloudinary.com/ds3bxudlr/image/upload/v1645184412/_50Q1189-removebg-preview_wi5uaz.png"
+    },
+    {
+        "name": "Trần Tuệ Nhi",
+        "title": "Co-Founder & Chief Technology Officer",
+        "avatar": "https://res.cloudinary.com/ds3bxudlr/image/upload/v1640110548/183738213_2219896601475651_9138226567523813760_n_-_Nhi_Tran_rlu8zx.jpg"
+    },
+    
+    {
+        "name": "Nguyễn Gia Thịnh",
+        "title": "Co-Founder & Chief Creative Officer",
+        "avatar": "https://res.cloudinary.com/ds3bxudlr/image/upload/v1645184453/185255381_1431101860570890_6633085363705846871_n_pumvif.jpg"
+    },
+    {
+        "name": "Nguyễn Phương Nhi",
+        "title": "Co-Founder & Chief of Operation",
+        "avatar": "https://res.cloudinary.com/ds3bxudlr/image/upload/v1640111749/Nguye%CC%82%CC%83n_Phu%CC%9Bo%CC%9Bng_Nhi_-_QHQT48C2_-_Phuong_Nhi_Nguyen_qvo1do.jpg"
+    },
+    {
+        "name": "Đỗ Đức Phú",
+        "title": "Co-Founder & Hardware Specialist",
+        "avatar": "https://res.cloudinary.com/ds3bxudlr/image/upload/v1640111715/Screen_Shot_2021-12-22_at_01.32.58_ez9kkw.png"
+    },
+    {
+        "name": "Nhât Huy",
+        "title": "Co-Founder & Al Specialist",
+        "avatar": "https://res.cloudinary.com/ds3bxudlr/image/upload/v1645184298/120814875_632013704164300_4613560036667694191_n_fttfiw.jpg"
+    },
+    {
+        "name": "Thế Anh",
+        "title": "Co-Founder & Business Development",
+        "avatar": "https://res.cloudinary.com/ds3bxudlr/image/upload/v1640161033/BC709264-37D0-43E0-A3A6-EA8079B34E98_-_The_Anh_qcwawf.jpg"
+    },
+    {
+        "name": "Trang Nguyễn",
+        "title":"Co-Founder & Marketing Specialist",
+        "avatar": "https://res.cloudinary.com/ds3bxudlr/image/upload/v1640113313/106508256_2712092769047767_6476785372407420280_n_-_Trang_Nguye%CC%82%CC%83n_Va%CC%82n_r2pr84.jpg"
+    }
+]
